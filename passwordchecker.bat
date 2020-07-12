@@ -1,1 +1,1 @@
-python C:\Users\Derek\PycharmProjects\password-checker\venv\windowpass.py
+python C:\Users\%USERNAME%\Desktop\Github\PasswordChecker\venv\windowpass.py
